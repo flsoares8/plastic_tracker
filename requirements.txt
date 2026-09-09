@@ -1,0 +1,4 @@
+Django
+python-dotenv
+django-materializecss-form
+psycopg2-binary
