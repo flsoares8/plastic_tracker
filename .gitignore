@@ -1,5 +1,5 @@
 # Django #
-plastic_footprint/.env
+plastic_footprint/plastic_footprint/.env
 __pycache__/
 plastic_footprint/plastic_tracker/migrations/
 database/
